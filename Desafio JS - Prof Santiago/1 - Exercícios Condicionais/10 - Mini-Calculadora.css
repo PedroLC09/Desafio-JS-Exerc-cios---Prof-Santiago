@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+body {
+    height: 80%;
+    background: linear-gradient(#DCCCEC, #BFCFE4);
+    background-size: cover;
+    
+}
+
+html {
+    height: 100%;
+}
+
+h2 {
+    font-family: "jersey 10";
+    letter-spacing: 3px;
+    font-size: 48px;
+    border: none;
+}
+
+#lbl01 {
+    font-family: "jersey 10";
+    letter-spacing: 3px;
+    font-size: 18px;
+}
+
+#lbl02 {
+    font-family: "jersey 10";
+    letter-spacing: 3px;
+    font-size: 18px;
+}
+
+#inpt01 {
+    border-radius: 10px;
+    margin: 20px;
+    padding: 28px;
+    border: 1px solid black;
+    width: 195px;
+    font-size: 27px;
+    text-decoration: none;
+    font-family: "jersey 10";
+    letter-spacing: 2px;
+}
+
+#inpt01:active {
+    border-radius: 15px;
+    transition: 0.4s;
+}
+
+#inpt02 {
+    border-radius: 10px;
+    margin: 20px;
+    padding: 28px;
+    border: 1px solid black;
+    width: 195px;
+    font-size: 27px;
+    text-decoration: none;
+    font-family: "jersey 10";
+    letter-spacing: 2px;
+    
+}
+
+#inpt02:active {
+    border-radius: 15px;
+    transition: 0.4s;
+}
+
+#btsoma {
+
+    border: none;
+    padding: 40px;
+    width: 180px;
+    border-radius: 13px;
+    margin: 9px;
+    margin-top: 18px;
+    font-family: "jersey 10";
+    letter-spacing: 3px;
+    font-size: 18px;
+}
+
+#btsub {
+
+    border: none;
+    padding: 40px;
+    width: 180px;
+    border-radius: 13px;
+    margin: 9px;
+    margin-top: 18px;
+    font-family: "jersey 10";
+    letter-spacing: 3px;
+    font-size: 18px;
+}
+
+#btmul {
+
+    border: none;
+    padding: 40px;
+    width: 180px;
+    border-radius: 13px;
+    margin: 9px;
+    margin-top: 18px;
+    font-family: "jersey 10";
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+#btdiv {
+
+    border: none;
+    padding: 40px;
+    width: 180px;
+    border-radius: 13px;
+    margin: 9px;
+    margin-top: 18px;
+    font-family: "jersey 10";
+    letter-spacing: 3px;
+    font-size: 18px;
+}
+
+.bt {
+    text-decoration: none;
+}
+
+
+.bt:hover {
+
+    transform: scale(1.09);
+    transition: 0.35s;
+    cursor: pointer;
+    background-color: #B0E9D5;
+}
+
+.bt:active { 
+
+    background-color: aquamarine;
+    transform: scale(1.15);
+    transition: 0.3s;
+}
+

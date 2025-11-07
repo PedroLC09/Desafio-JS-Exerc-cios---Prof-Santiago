@@ -1,0 +1,1 @@
+oi professor, pras questões de console.log tenta usar a extensão "code runner" do visual code
