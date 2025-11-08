@@ -1,4 +1,4 @@
-# Desafio-JS-Exerc-cios---Prof-Santiago
+# Desafio-JS-Exercícios-Prof-Santiago
 
 # Nome: Pedro Lima Cabral Correia
 # Turma: F-21
